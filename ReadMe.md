@@ -9,11 +9,12 @@
 - Joris
 ## Deliverables
 1. BMC
-2. Risk Management Plan
-3. Drone Simulation POC
-4. Data Management Simulation
-5. Crisis Management Protocol
-6. Data protection when using AI  
+[BMC](BMC.jpg)
+3. Risk Management Plan
+4. Drone Simulation POC
+5. Data Management Simulation
+6. Crisis Management Protocol
+7. Data protection when using AI  
 [Data Protection when using AI](DataProtection.pdf)
 
 
