@@ -1,5 +1,12 @@
 # title
 ## Team
+- Duncan
+- Nitesh
+- Roshan
+- Wesley
+- Robin
+- Angel
+- Joris
 ## Deliverables
 1. BMC
 2. Risk Management Plan
