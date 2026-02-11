@@ -5,7 +5,7 @@
 - Roshan
 - Wesley
 - Robin
-- Angel
+- Ángel
 - Joris
 ## Deliverables
 1. BMC
