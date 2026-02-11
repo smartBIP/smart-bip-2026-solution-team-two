@@ -3,7 +3,7 @@
 ## Deliverables
 1. BMC
 2. Risk Management Plan
-### Drone Simulation POC
-### Data Management Simulation
-### Crisis Management Protocol
-### Data protection when using AI
+3. Drone Simulation POC
+4. Data Management Simulation
+5. Crisis Management Protocol
+6. Data protection when using AI
