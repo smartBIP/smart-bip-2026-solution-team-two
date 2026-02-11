@@ -8,7 +8,7 @@
 - Ángel
 - Joris
 ## Deliverables
-1. BMC
+1. BMC  
 [BMC](BMC.jpg)
 3. Risk Management Plan
 4. Drone Simulation POC
