@@ -23,7 +23,7 @@
 [visualization](visualization.pdf)  
 7. Crisis Management Protocol  
 [Crisis Management Protocol](cmp.pdf)  
-[Flowchart](flowchart.jpeg)  
+[Flowchart](flowchart.svg)  
 8. Data protection when using AI    
 [Data Protection when using AI](DataProtection.pdf)
 
