@@ -1,0 +1,75 @@
+{
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+
+  "ClockSpeed": 1.0,
+
+  "Vehicles": {
+    "FestivalDrone": {
+      "VehicleType": "SimpleFlight",
+      "AutoCreate": true,
+
+      "X": 0,
+      "Y": 0,
+      "Z": 0,
+
+      "EnableCollision": true,
+
+      "Avoidance": {
+        "Enable": true,
+        "ObstacleDetectionDistance": 10,
+        "AvoidanceVelocity": 5
+      },
+
+      "Sensors": {
+        "DistanceFront": {
+          "SensorType": 5,
+          "Enabled": true,
+          "DrawDebugPoints": true,
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "Pitch": 0,
+          "Roll": 0,
+          "Yaw": 0
+        },
+        "DistanceTop": {
+          "SensorType": 5,
+          "Enabled": true,
+          "DrawDebugPoints": true,
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "Pitch": -90,
+          "Roll": 0,
+          "Yaw": 0
+        }
+      }
+    }
+  },
+
+  "CameraDefaults": {
+    "CaptureSettings": [
+      {
+        "ImageType": 0,
+        "Width": 1280,
+        "Height": 720,
+        "FOV_Degrees": 90
+      }
+    ]
+  },
+
+  "Recording": {
+    "RecordOnMove": false,
+    "RecordInterval": 0.05,
+    "Cameras": [
+      {
+        "CameraName": "0",
+        "ImageType": 0,
+        "PixelsAsFloat": false,
+        "Compress": true
+      }
+    ]
+  }
+}
+
