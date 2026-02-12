@@ -11,11 +11,11 @@
 1. BMC  
 [BMC](BMC.jpg)
 2. Risk Management Plan  
-[Risk Management Plan](RiskManagement.pdf)
+[x Risk Management Plan](RiskManagement.pdf)
 3. Drone Simulation POC  
-[x](DataProtection.pdf)
-6. Data Management Simulation
-[Data Protection when using AI](DataProtection.pdf)
+[x](DataProtection.pdf)  
+6. Data Management Simulation  
+[x Data Protection when using AI](DataProtection.pdf)  
 7. Crisis Management Protocol  
 [Crisis Management Protocol](cmp.pdf)  
 [Flowchart](flowchart.jpeg)  
