@@ -17,8 +17,8 @@
 
       "Avoidance": {
         "Enable": true,
-        "ObstacleDetectionDistance": 10,
-        "AvoidanceVelocity": 5
+        "ObstacleDetectionDistance": 40,
+        "AvoidanceVelocity": 8
       },
 
       "Sensors": {
