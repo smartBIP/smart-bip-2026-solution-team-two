@@ -19,6 +19,7 @@
 [Risk Management Plan](RiskManagementProtocol.pdf)
 3. Drone Simulation POC  
 [drone video](https://www.youtube.com/watch?v=u3l3wdLXeZ4&feature=youtu.be)
+python + json files = source code  
 6. Data Management & Visualization Simulation  
 [visualization](visualization.pdf)  
 7. Crisis Management Protocol  
