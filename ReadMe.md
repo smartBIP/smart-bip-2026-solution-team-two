@@ -18,6 +18,7 @@
 [Data Protection when using AI](DataProtection.pdf)
 8. Crisis Management Protocol  
 [Data Protection when using AI](DataProtection.pdf)
+[Flowchart](flowchart.jpeg)
 10. Data protection when using AI    
 [Data Protection when using AI](DataProtection.pdf)
 
