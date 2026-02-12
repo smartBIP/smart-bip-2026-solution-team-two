@@ -1,4 +1,6 @@
 # title
+## Coat Of Arms
+![Coat Of Arms](coatOfArms.jpeg)
 ## Team
 - Duncan
 - Nitesh
