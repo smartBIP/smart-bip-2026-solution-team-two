@@ -14,8 +14,8 @@
 [x Risk Management Plan](RiskManagement.pdf)
 3. Drone Simulation POC  
 [x](DataProtection.pdf)  
-6. Data Management Simulation  
-[x Data Protection when using AI](DataProtection.pdf)  
+6. Data Management & Visualization Simulation  
+[visualization](BIPVisualization.pdf)  
 7. Crisis Management Protocol  
 [Crisis Management Protocol](cmp.pdf)  
 [Flowchart](flowchart.jpeg)  
