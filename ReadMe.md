@@ -1,7 +1,7 @@
 # BIP group II
 
 ## Presentation
-[presentation](presentation.pdf)  
+[presentation](slides.pdf)  
 ## Coat Of Arms
 ![Coat Of Arms](coatOfArms.jpeg)
 ## Team
